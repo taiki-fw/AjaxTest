@@ -1,0 +1,26 @@
+[
+  {
+    "name": "フシギダネ",
+    "description": "くさタイプのポケモン"
+  },
+  {
+    "name": "フシギソウ",
+    "description": "フシギダネの進化形"
+  },
+  {
+    "name": "フシギバナ",
+    "description": "フシギソウの進化形"
+  },
+  {
+    "name": "ヒトカゲ",
+    "description": "ほのうタイプのポケモン"
+  },
+  {
+    "name": "リザード",
+    "description": "ヒトカゲの進化形"
+  },
+  {
+    "name": "リザードン",
+    "description": "リザードの進化形"
+  }
+]
